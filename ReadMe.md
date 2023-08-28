@@ -1,0 +1,1 @@
+Hi this is sample helm git repo for serving helm charts!
